@@ -1,8 +1,11 @@
 ---
 title: MechatronicUML
-summary: As a student I worked on MechatronicUML. A Model-Driven Software Development tool-chain for cyber-physical systems.
+summary: "MechatronicUML is a Model-Driven Software Development tool-chain for cyber-physical systems.
+
+
+ As a student I worked on MechatronicUML's metamodels, its C codegenerator, and several Eclipse plugins. "
 tags:
-- Static Code Analysis
+- Model-Driven Development
 date: "2014-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

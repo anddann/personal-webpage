@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 130
@@ -21,9 +21,9 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: moqrvovk
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false

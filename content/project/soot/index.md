@@ -1,6 +1,9 @@
 ---
 title: Soot
-summary: As part of my life as a PhD student, I currently adapt Soot to work with **Java 9**.
+summary: "Soot is static analysis framework used by researchers and practitioners from around the world to analyze, instrument, optimize and visualize Java and Android applications.
+
+
+Besides several bug fixes, I adapted Soot to support Java's module systems and Java version newer then 9."
 tags:
 - Static Code Analysis
 date: "2016-03-27T00:00:00Z"
