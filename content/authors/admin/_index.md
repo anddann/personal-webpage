@@ -4,8 +4,8 @@ role: Co-Founder @ CodeShield
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Static Code Analysis
+  - Open-Source Software Security
   - Information Retrieval
 social:
   - icon: envelope
@@ -13,30 +13,30 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/_a_dann
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/anddann/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/andreas-dann-551748180/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: CodeShield GmbH
+    url: https://codeshield.io/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student in Computer Science
+      institution: Paderborn University
+      year: 2017
+    - course: MSc in Computer Science
+      institution: Paderborn University
+      year: 2016
+    - course: BSc in Computer Science
+      institution: Paderborn University
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
