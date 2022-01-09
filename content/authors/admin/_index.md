@@ -42,8 +42,12 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm co-founder of [CodeShield](https://codeshield.io). Prior to that, I worked as a research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/sse/)  advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) and [Prof. Dr. Ben Hermann](https://benhermann.eu/) at Paderborn University starting in 2017. 
+I received the MSc In Computer Science from Paderborn University in 2016. 
+
+My research interests include program analysis with a security focus, empirical software engineering and the detection of vulnerabilities in open-source software. 
+I'm an advocate of open-source software and also an AWS community builder. I'm also one of the main contributors of the static analysis framework [Soot](https://github.com/soot-oss/soot).
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
