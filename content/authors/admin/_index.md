@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Static Code Analysis
   - Open-Source Software Security
-  - Information Retrieval
+  - Software Architecture
 social:
   - icon: envelope
     icon_pack: fas
