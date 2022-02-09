@@ -4,7 +4,7 @@
 title: "Blinder Alarm: Kontext als Schlüssel zur sicheren Cloud"
 authors: 
   - Johannes Späth
-  - Andraes Dann
+  - Andreas Dann
   - Manuel Benz
 date: 2022-02-09T10:26:40+01:00
 doi: ""
@@ -19,7 +19,7 @@ publishDate: 2022-01-25T10:26:40+01:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Heise Online"
 publication_short: ""
 
 abstract: ""
