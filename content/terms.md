@@ -1,7 +1,7 @@
 ---
 title: Terms
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+date: "2022-01-01T00:00:00+01:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,15 @@ header:
   image: ""
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+<h1>Impressum</h1>
+
+<h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
+<p>Andreas Dann<br />
+Grimmestra&szlig;e 20<br />
+33098 Paderborn</p>
+
+<h2>Kontakt</h2>
+<p>Telefon: &#91;Telefonnummer&#93;<br />
+E-Mail: mail@andreasdann.eu</p>
+
+<p>Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></p>
