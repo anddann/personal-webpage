@@ -20,23 +20,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Java, Python, TypeScript, Spring, <br/> Neo4J, PostgresSQL, ...
+- description: Java, Python, Neo4j, PostgresSQL
   icon: code
   icon_pack: fas
   name: Backend
-- description: TypeScript, HTML, CSS, SASS, Bootstrap
+- description: HTML, CSS, SASS, Bootstrap
   icon: laptop-code
   icon_pack: fas
   name: Frontend
-- description: AWS, Docker, Gitlab ci, Github ci, Jenkins
+- description: AWS, Docker, Gitlab CI, Jenkins
   icon: infinity
   icon_pack: fas
   name: DevOps
-- description: Jupyter, Pandas, SciPy, scikit, Weka
+- description: Jupyter, Pandas
   icon: flask
   icon_pack: fas
   name: DataScience & ML
-- description: Soot, WALA, JavaParser, PMD, Steady
+- description: Soot, WALA, JavaParser, Steady
   icon: searchengin
   icon_pack: fab
   name: Static Code Analysis
