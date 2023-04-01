@@ -33,6 +33,6 @@ publishDate: '2023-03-31T08:51:49.466013Z'
 publication_types:
 - '2'
 abstract: ''
-publication: 'IEEE/ACM 45th International Conference on Software Engineering (ICSE 2023)'
-doi: -
+publication: '*IEEE/ACM 45th International Conference on Software Engineering (ICSE 2023)*'
+doi: ''
 ---
