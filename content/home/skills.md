@@ -20,11 +20,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Java, Python, Neo4j, PostgresSQL
+- description: Java, Python (beginner), Neo4j, PostgresSQL
   icon: code
   icon_pack: fas
   name: Backend
-- description: HTML, CSS, SASS, Bootstrap
+- description: HTML, Bootstrap
   icon: laptop-code
   icon_pack: fas
   name: Frontend

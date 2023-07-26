@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'UpCy: Safely Updating Outdated Dependencies (to be published)'
+title: 'UpCy: Safely Updating Outdated Dependencies'
 subtitle: ''
 summary: ''
 authors:
@@ -33,6 +33,6 @@ publishDate: '2023-03-31T08:51:49.466013Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IEEE/ACM 45th International Conference on Software Engineering (ICSE 2023)*'
-doi: ''
+publication: '*2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)*'
+doi: '10.1109/ICSE48619.2023.00031'
 ---
