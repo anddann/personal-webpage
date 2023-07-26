@@ -1,12 +1,12 @@
 ---
 title: Andreas Dann
-role: Co-Founder @ CodeShield
+role: Security Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Static Code Analysis
   - Open-Source Software Security
-  - Software Architecture
+  - Software Supply Chain Security
 social:
   - icon: envelope
     icon_pack: fas
