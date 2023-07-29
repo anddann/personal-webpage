@@ -21,6 +21,6 @@ design:
 {{< icon name="laptop-code" pack="fas" >}} **Frontend:** HTML, Bootstrap <br>
 {{< icon name="infinity" pack="fas" >}} **CI/CD:** AWS, Docker, Gitlab CI, Jenkins <br>
 {{< icon name="flask" pack="fas" >}} **DataScience:** Jupyter, Pandas <br>
-{{< icon name="searchengin" pack="fab" >}} **Static Code Analysis:**  Jupyter, Pandas  
+{{< icon name="searchengin" pack="fab" >}} **Static Code Analysis:**  Soot, WALA, JavaParser, Eclipse Steady 
 
 
