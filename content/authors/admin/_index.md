@@ -42,13 +42,14 @@ superuser: true
 highlight_name: true
 ---
 
-I'm currently doing my Ph.D. as an external research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/sse/) advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) and [Prof. Dr. Ben Hermann](https://benhermann.eu/) at Paderborn. 
+I'm currently finishing my Ph.D. as an external research associate in the [Secure Software Engineering Group](https://www.hni.uni-paderborn.de/en/sse/), advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) and [Prof. Dr. Ben Hermann](https://benhermann.eu/) at Paderborn. 
 I received an MSc in Computer Science from Paderborn University in 2016. 
 
-My research comprises the detection of vulnerable open-source libraries, evaluating their usage, and providing automated approaches for updating by applying static code analysis and empirical software engineering methods.
+My research comprises the detection of vulnerable open-source libraries, evaluating their usage, and providing automated approaches for updating them by applying static code analysis and empirical software engineering methods.
 
 
-Before that, I've been Co-Founder at [CodeShield GmbH](https://codeshield.io) and an AWS community builder. 
+While persuing my Ph.D., I've been Co-Founder at [CodeShield GmbH](https://codeshield.io) and an AWS community builder. 
+
 
 <!-- I'm also one of the main contributors of the static analysis framework [Soot](https://github.com/soot-oss/soot). -->
 
