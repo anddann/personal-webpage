@@ -22,7 +22,7 @@ social:
     link: https://github.com/anddann/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/andreas-dann-551748180/
+    link: https://www.linkedin.com/in/andreas-dann-security-research/
 #organizations:
 #  - name: CodeShield GmbH
 #    url: https://codeshield.io/
